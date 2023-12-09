@@ -8,16 +8,28 @@ The foundation of the Loan Approval Predictor project is built upon a comprehens
 Data: 4269 inputs * 14 features
 
 loan_id
+
 no_of_dependents
+
 education
+
 self_employed
+
 income_annum
+
 loan_amount 
+
 loan_term
+
 cibil_score
+
 residential_assets_value 
+
 commercial_assets_value
+
 luxury_assets_value
+
 bank_asset_value
+
 loan_status
 
